@@ -20,6 +20,6 @@ My name is Manas,I am an AI developer and currently working as a Machine Learnin
 
 ### Hit Me Up!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas%20Vardhan-blue)](https://www.linkedin.com/in/manas-vardhan/)
-[![Mail](https://img.shields.io/badge/Mail-manasvardhan%40gmail.com-green)](manasvardhan@gamil.com)
+[![Mail](https://img.shields.io/badge/Mail-manasvardhan%40gmail.com-green)](mailto:manasvardhan@gamil.com)
 [![Twitter](https://img.shields.io/badge/Kaggle-Manas%20Vardhan-blue)](https://www.kaggle.com/manasvardhan)
 [![Instagram](https://img.shields.io/badge/Instagram-%40manasvardhan-orange)](https://www.instagram.com/manasvardhan/)
