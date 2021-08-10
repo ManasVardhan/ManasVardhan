@@ -3,7 +3,7 @@
 
 ### Hello visitor 👋
 My name is Manas,I am an AI developer and currently working as a Machine Learning Developer at [Smoketrees](https://smoketrees.dev/)
-- 🔭 Looking forward to implementing state of the art Deep Learning architectures.
+- 🔭 Creating and implementing state of the art Deep Learning architectures.
 - 🌱 I create in Python and Tensorflow and deploy in Django
 - 👯 Your go to guy for AI.
 - 💬 Machine Learning is my forte.
