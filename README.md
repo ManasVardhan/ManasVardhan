@@ -25,7 +25,7 @@ Building intelligent systems at the intersection of machine learning research an
 ### Research
 
 - **Multi-View Latent Fusion on Frozen Backbones for Sparse-View 3D Reconstruction** (2025)
-  Convex-weighted fusion over TripoSR, outperformed Hunyuan3D at <0.05% trainable parameters
+  Convex-weighted fusion over TripoSR, outperformed baselines at <0.05% trainable parameters
 
 - **Latent-Space Temporal Stabilizers for Robust Autoregressive Generation** (in progress)
   Targeting EMNLP/NeurIPS 2026
@@ -46,7 +46,7 @@ Building developer tools for the LLM ecosystem:
 ### Previously
 
 - **SDE, ML/Data Science** @ JPMorgan Chase (2023-2025)
-- **B.Tech CS + Minor Business Systems** @ VIT (2019-2023) - Thesis on diffusion models & image synthesis
+- **B.Tech CS + Business Systems** @ VIT (2019-2023) - Thesis on diffusion models & image synthesis
 
 ---
 
