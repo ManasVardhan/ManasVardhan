@@ -51,6 +51,5 @@ Building developer tools for the LLM ecosystem:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasVardhan&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=888&hide_title=true&hide_rank=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasVardhan&hide_border=true&background=00000000&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=888&dates=888&currStreakNum=888&sideNums=888" height="150">
+  <sub>Los Angeles, CA · building things that think</sub>
 </div>
