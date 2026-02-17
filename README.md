@@ -25,26 +25,15 @@ Building intelligent systems at the intersection of machine learning research an
 
 ### Research
 
-- **Multi-View Latent Fusion on Frozen Backbones for Sparse-View 3D Reconstruction** (2025)
-  Convex-weighted fusion over TripoSR, outperformed baselines at <0.05% trainable parameters
-
-- **Latent-Space Temporal Stabilizers for Robust Autoregressive Generation** (in progress)
-  Stabilizing autoregressive LLM generation via learned latent-space corrections
-
-- **Adaptive Test-Time Compute Allocation** (in progress)
-  PPO-trained policy that dynamically allocates inference compute based on input difficulty
-
-- **Prompt Sensitivity Landscapes** (in progress)
-  Mapping how small perturbations in prompts affect LLM output distributions
-
-- **Tool Use Reliability in LLM Agents** (in progress)
-  Benchmarking and classifying failure modes in agent tool-calling pipelines
-
-- **Agent Memory Architectures** (in progress)
-  Designing and evaluating compositional memory systems for long-horizon agents
-
-- **Efficient Reasoning Distillation** (in progress)
-  Compressing chain-of-thought traces from large models into smaller ones via distillation
+| Paper | Area | Status |
+|-------|------|--------|
+| **Multi-View Latent Fusion on Frozen Backbones** | 3D Reconstruction | 📄 2025 |
+| **Latent-Space Temporal Stabilizers** | Autoregressive Generation | 🔬 In Progress |
+| **Adaptive Test-Time Compute Allocation** | Inference Efficiency | 🔬 In Progress |
+| **Prompt Sensitivity Landscapes** | LLM Robustness | 🔬 In Progress |
+| **Tool Use Reliability in LLM Agents** | Agent Systems | 🔬 In Progress |
+| **Agent Memory Architectures** | Agent Systems | 🔬 In Progress |
+| **Efficient Reasoning Distillation** | Knowledge Distillation | 🔬 In Progress |
 
 ### Previously
 
