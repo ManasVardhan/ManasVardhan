@@ -10,6 +10,7 @@ Building intelligent systems at the intersection of machine learning research an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-vardhan/)
 [![Twitter](https://img.shields.io/badge/@vardhan__manas-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vardhan_manas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasvardhan@gmail.com)
+[![HuggingFace Contributor](https://img.shields.io/badge/🤗%20HuggingFace-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan)
 
 </div>
 
