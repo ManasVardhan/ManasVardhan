@@ -29,7 +29,22 @@ Building intelligent systems at the intersection of machine learning research an
   Convex-weighted fusion over TripoSR, outperformed baselines at <0.05% trainable parameters
 
 - **Latent-Space Temporal Stabilizers for Robust Autoregressive Generation** (in progress)
-  Targeting EMNLP/NeurIPS 2026
+  Stabilizing autoregressive LLM generation via learned latent-space corrections
+
+- **Adaptive Test-Time Compute Allocation** (in progress)
+  PPO-trained policy that dynamically allocates inference compute based on input difficulty
+
+- **Prompt Sensitivity Landscapes** (in progress)
+  Mapping how small perturbations in prompts affect LLM output distributions
+
+- **Tool Use Reliability in LLM Agents** (in progress)
+  Benchmarking and classifying failure modes in agent tool-calling pipelines
+
+- **Agent Memory Architectures** (in progress)
+  Designing and evaluating compositional memory systems for long-horizon agents
+
+- **Efficient Reasoning Distillation** (in progress)
+  Compressing chain-of-thought traces from large models into smaller ones via distillation
 
 ### Previously
 
