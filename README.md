@@ -31,19 +31,6 @@ Building intelligent systems at the intersection of machine learning research an
 - **Latent-Space Temporal Stabilizers for Robust Autoregressive Generation** (in progress)
   Targeting EMNLP/NeurIPS 2026
 
-### Open Source
-
-Building developer tools for the LLM ecosystem:
-
-| | Repository | What it does |
-|---|---|---|
-| 💰 | [**llm-cost-guardian**](https://github.com/ManasVardhan/llm-cost-guardian) | Real-time cost tracking & budget enforcement for LLM APIs |
-| 🛡️ | [**llm-shelter**](https://github.com/ManasVardhan/llm-shelter) | Safety guardrails - PII detection, prompt injection defense, toxicity filtering |
-| 🔄 | [**agent-replay**](https://github.com/ManasVardhan/agent-replay) | Record, replay, and debug AI agent execution traces |
-| 📊 | [**promptdiff**](https://github.com/ManasVardhan/promptdiff) | Git-style diff and version control for LLM prompts |
-| 🔨 | [**mcp-forge**](https://github.com/ManasVardhan/mcp-forge) | Scaffold, test, and publish MCP servers in seconds |
-| 🏎️ | [**bench-my-llm**](https://github.com/ManasVardhan/bench-my-llm) | Dead-simple LLM benchmarking CLI |
-
 ### Previously
 
 - **SDE, ML/Data Science** @ JPMorgan Chase (2023-2025)
