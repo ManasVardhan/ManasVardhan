@@ -12,6 +12,7 @@ Building intelligent systems at the intersection of machine learning research an
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasvardhan@gmail.com)
 [![HuggingFace Contributor](https://img.shields.io/badge/🤗%20HuggingFace-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan)
 [![LlamaIndex Contributor](https://img.shields.io/badge/🦙%20LlamaIndex-Contributor-A855F7?style=for-the-badge)](https://github.com/run-llama/llama_index/pulls?q=author%3AManasVardhan)
+[![Streamlit Contributor](https://img.shields.io/badge/🎈%20Streamlit-Contributor-FF4B4B?style=for-the-badge)](https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan)
 
 </div>
 
@@ -22,7 +23,7 @@ Building intelligent systems at the intersection of machine learning research an
 - 🏗️ Building **Friday Inc** - AI infrastructure and tooling
 - 🎓 M.S. Computer Science @ **USC** (2025-2026)
 - 🔬 Researcher @ **USC Computational Physics Group** - 3D generation & physical system modeling
-- 📝 Contributing to **HuggingFace Transformers**, **LlamaIndex**, **scikit-learn**, and **PyTorch**
+- 📝 Contributing to **HuggingFace Transformers**, **LlamaIndex**, **Streamlit**, **scikit-learn**, and **PyTorch**
 
 ### Research
 
