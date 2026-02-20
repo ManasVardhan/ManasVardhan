@@ -21,7 +21,7 @@ Building intelligent systems at the intersection of machine learning research an
 - 🏗️ Building **Friday Inc** - AI infrastructure and tooling
 - 🎓 M.S. Computer Science @ **USC** (2025-2026)
 - 🔬 Researcher @ **USC Computational Physics Group** - 3D generation & physical system modeling
-- 📝 Contributing to **HuggingFace Transformers**, **scikit-learn**, and **PyTorch**
+- 📝 Contributing to **HuggingFace Transformers**, **LlamaIndex**, **scikit-learn**, and **PyTorch**
 
 ### Research
 
