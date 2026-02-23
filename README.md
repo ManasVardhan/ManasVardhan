@@ -13,6 +13,7 @@ Building intelligent systems at the intersection of machine learning research an
 [![HuggingFace Contributor](https://img.shields.io/badge/🤗%20HuggingFace-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan)
 [![LlamaIndex Contributor](https://img.shields.io/badge/🦙%20LlamaIndex-Contributor-A855F7?style=for-the-badge)](https://github.com/run-llama/llama_index/pulls?q=author%3AManasVardhan)
 [![Streamlit Contributor](https://img.shields.io/badge/🎈%20Streamlit-Contributor-FF4B4B?style=for-the-badge)](https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan)
+[![Axolotl Contributor](https://img.shields.io/badge/🦎%20Axolotl-Contributor-22C55E?style=for-the-badge)](https://github.com/axolotl-ai-cloud/axolotl/pulls?q=author%3AManasVardhan)
 
 </div>
 
