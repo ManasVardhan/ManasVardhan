@@ -10,10 +10,6 @@ Building intelligent systems at the intersection of machine learning research an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-vardhan/)
 [![Twitter](https://img.shields.io/badge/@vardhan__manas-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vardhan_manas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasvardhan@gmail.com)
-[![HuggingFace Contributor](https://img.shields.io/badge/🤗%20HuggingFace-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan)
-[![LlamaIndex Contributor](https://img.shields.io/badge/🦙%20LlamaIndex-Contributor-A855F7?style=for-the-badge)](https://github.com/run-llama/llama_index/pulls?q=author%3AManasVardhan)
-[![Streamlit Contributor](https://img.shields.io/badge/🎈%20Streamlit-Contributor-FF4B4B?style=for-the-badge)](https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan)
-[![Axolotl Contributor](https://img.shields.io/badge/🦎%20Axolotl-Contributor-22C55E?style=for-the-badge)](https://github.com/axolotl-ai-cloud/axolotl/pulls?q=author%3AManasVardhan)
 
 </div>
 
@@ -24,7 +20,71 @@ Building intelligent systems at the intersection of machine learning research an
 - 🏗️ Building **Friday Inc** - AI infrastructure and tooling
 - 🎓 M.S. Computer Science @ **USC** (2025-2026)
 - 🔬 Researcher @ **USC Computational Physics Group** - 3D generation & physical system modeling
-- 📝 Contributing to **HuggingFace Transformers**, **LlamaIndex**, **Streamlit**, **scikit-learn**, and **PyTorch**
+
+### Open Source Contributions
+
+<table>
+<tr>
+<td align="center" width="140">
+<a href="https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/><br/>
+<b>Transformers</b>
+</a><br/>
+<sub>Pipeline padding fix</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/pytorch/pytorch/pull/174295">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="PyTorch"/><br/>
+<b>PyTorch</b>
+</a><br/>
+<sub>Dynamo exception cleanup</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/mlflow/mlflow/pulls?q=author%3AManasVardhan">
+<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" width="48" height="48" alt="MLflow"/><br/>
+<b>MLflow</b>
+</a><br/>
+<sub>Type annotation fix</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/scikit-learn/scikit-learn/pull/33287">
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="48" height="48" alt="scikit-learn"/><br/>
+<b>scikit-learn</b>
+</a><br/>
+<sub>Huber loss for HGBT</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<a href="https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit"/><br/>
+<b>Streamlit</b>
+</a><br/>
+<sub>Code block accessibility</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/run-llama/llama_index/pull/20721">
+<img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/docs/_static/llama_index_logo.svg" width="48" height="48" alt="LlamaIndex"/><br/>
+<b>LlamaIndex</b>
+</a><br/>
+<sub>RAG failure mode docs</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/axolotl-ai-cloud/axolotl/pulls?q=author%3AManasVardhan">
+<img src="https://raw.githubusercontent.com/axolotl-ai-cloud/axolotl/main/image/axolotl.png" width="48" height="48" alt="Axolotl"/><br/>
+<b>Axolotl</b>
+</a><br/>
+<sub>Dot-notation CLI args</sub>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/Netflix/metaflow/pulls?q=author%3AManasVardhan">
+<img src="https://raw.githubusercontent.com/Netflix/metaflow/master/docs/metaflow_logo.svg" width="48" height="48" alt="Metaflow"/><br/>
+<b>Metaflow</b>
+</a><br/>
+<sub>Open PRs</sub>
+</td>
+</tr>
+</table>
 
 ### Research
 
