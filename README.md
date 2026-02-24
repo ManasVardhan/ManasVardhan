@@ -43,12 +43,6 @@ Building intelligent systems at the intersection of machine learning research an
 <b>MLflow</b>
 </a>
 </td>
-<td align="center" width="140">
-<a href="https://github.com/scikit-learn/scikit-learn/pull/33287">
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="48" height="48" alt="scikit-learn"/><br/>
-<b>scikit-learn</b>
-</a>
-</td>
 </tr>
 <tr>
 <td align="center" width="140">
