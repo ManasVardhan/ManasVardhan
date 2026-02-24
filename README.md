@@ -43,8 +43,6 @@ Building intelligent systems at the intersection of machine learning research an
 <b>MLflow</b>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="140">
 <a href="https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit"/><br/>
