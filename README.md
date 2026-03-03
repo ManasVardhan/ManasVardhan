@@ -32,6 +32,12 @@ Building intelligent systems at the intersection of machine learning research an
 </a>
 </td>
 <td align="center" width="140">
+<a href="https://github.com/huggingface/transformers/pull/44021">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/><br/>
+<b>Transformers</b>
+</a>
+</td>
+<td align="center" width="140">
 <a href="https://github.com/mlflow/mlflow/pulls?q=author%3AManasVardhan+is%3Amerged">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="48" height="48" alt="MLflow"/><br/>
 <b>MLflow</b>
