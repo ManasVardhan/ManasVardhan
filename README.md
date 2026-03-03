@@ -26,27 +26,21 @@ Building intelligent systems at the intersection of machine learning research an
 <table>
 <tr>
 <td align="center" width="140">
-<a href="https://github.com/huggingface/transformers/pulls?q=author%3AManasVardhan">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/><br/>
-<b>Transformers</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="https://github.com/pytorch/pytorch/pull/174295">
+<a href="https://github.com/pytorch/pytorch/pull/175639">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="PyTorch"/><br/>
 <b>PyTorch</b>
 </a>
 </td>
 <td align="center" width="140">
-<a href="https://github.com/mlflow/mlflow/pulls?q=author%3AManasVardhan">
+<a href="https://github.com/mlflow/mlflow/pulls?q=author%3AManasVardhan+is%3Amerged">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="48" height="48" alt="MLflow"/><br/>
 <b>MLflow</b>
 </a>
 </td>
 <td align="center" width="140">
-<a href="https://github.com/streamlit/streamlit/pulls?q=author%3AManasVardhan">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit"/><br/>
-<b>Streamlit</b>
+<a href="https://github.com/axolotl-ai-cloud/axolotl/pulls?q=author%3AManasVardhan+is%3Amerged">
+<img src="https://avatars.githubusercontent.com/u/167502477?s=200&v=4" width="48" height="48" alt="Axolotl"/><br/>
+<b>Axolotl</b>
 </a>
 </td>
 <td align="center" width="140">
@@ -56,9 +50,9 @@ Building intelligent systems at the intersection of machine learning research an
 </a>
 </td>
 <td align="center" width="140">
-<a href="https://github.com/axolotl-ai-cloud/axolotl/pulls?q=author%3AManasVardhan">
-<img src="https://avatars.githubusercontent.com/u/167502477?s=200&v=4" width="48" height="48" alt="Axolotl"/><br/>
-<b>Axolotl</b>
+<a href="https://github.com/huggingface/accelerate/pull/3929">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/><br/>
+<b>HF Accelerate</b>
 </a>
 </td>
 </tr>
