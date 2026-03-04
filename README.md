@@ -39,7 +39,7 @@ Building intelligent systems at the intersection of machine learning research an
 </td>
 <td align="center" width="120">
 <a href="https://github.com/EleutherAI/lm-evaluation-harness/pull/3608">
-<img src="https://avatars.githubusercontent.com/u/68612514?s=200&v=4" width="48" height="48" alt="EleutherAI"/><br/>
+<img src="https://avatars.githubusercontent.com/u/68924597?s=200&v=4" width="48" height="48" alt="EleutherAI"/><br/>
 <b>lm-eval-harness</b>
 </a>
 </td>
