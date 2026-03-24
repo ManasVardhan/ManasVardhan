@@ -72,15 +72,15 @@ Building intelligent systems at the intersection of machine learning research an
 
 ### Research
 
-| Paper | Area | Status |
-|-------|------|--------|
-| **Multi-View Latent Fusion on Frozen Backbones** | 3D Reconstruction | 📄 2025 |
-| **Latent-Space Temporal Stabilizers** | Autoregressive Generation | 🔬 In Progress |
-| **Adaptive Test-Time Compute Allocation** | Inference Efficiency | 🔬 In Progress |
-| **Prompt Sensitivity Landscapes** | LLM Robustness | 🔬 In Progress |
-| **Tool Use Reliability in LLM Agents** | Agent Systems | 🔬 In Progress |
-| **Agent Memory Architectures** | Agent Systems | 🔬 In Progress |
-| **Efficient Reasoning Distillation** | Knowledge Distillation | 🔬 In Progress |
+| Paper | Area |
+|-------|------|
+| **Multi-View Latent Fusion on Frozen Backbones** | 3D Reconstruction |
+| **Latent-Space Temporal Stabilizers** | Autoregressive Generation |
+| **Adaptive Test-Time Compute Allocation** | Inference Efficiency |
+| **Prompt Sensitivity Landscapes** | LLM Robustness |
+| **Tool Use Reliability in LLM Agents** | Agent Systems |
+| **Agent Memory Architectures** | Agent Systems |
+| **Efficient Reasoning Distillation** | Knowledge Distillation |
 
 ### Previously
 
