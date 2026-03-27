@@ -81,6 +81,7 @@ Building intelligent systems at the intersection of machine learning research an
 | **Tool Use Reliability in LLM Agents** | Agent Systems |
 | **Agent Memory Architectures** | Agent Systems |
 | **Efficient Reasoning Distillation** | Knowledge Distillation |
+| **Domain-Specialized Embeddings for Medical Retrieval** | Information Retrieval |
 
 ### Previously
 
