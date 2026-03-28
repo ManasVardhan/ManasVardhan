@@ -25,11 +25,11 @@ Building intelligent systems at the intersection of machine learning research an
 
 <table>
 <tr>
-<td align="center" width="120">
+<!-- <td align="center" width="120">
 <a href="https://github.com/pytorch/pytorch/pull/175639">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="PyTorch"/><br/>
 <b>PyTorch</b>
-</a>
+</a> -->
 </td>
 <td align="center" width="120">
 <a href="https://github.com/huggingface/transformers/pull/44021">
