@@ -38,6 +38,12 @@ Building intelligent systems at the intersection of machine learning research an
 </a>
 </td>
 <td align="center" width="120">
+<a href="https://github.com/marimo-team/marimo/pull/8915">
+<img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" width="48" height="48" alt="marimo"/><br/>
+<b>marimo</b>
+</a>
+</td>
+<td align="center" width="120">
 <a href="https://github.com/EleutherAI/lm-evaluation-harness/pull/3608">
 <img src="https://avatars.githubusercontent.com/u/68924597?s=200&v=4" width="48" height="48" alt="EleutherAI"/><br/>
 <b>lm-eval-harness</b>
