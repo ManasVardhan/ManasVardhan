@@ -73,6 +73,12 @@ Building intelligent systems at the intersection of machine learning research an
 <b>HF Accelerate</b>
 </a>
 </td>
+<td align="center" width="120">
+<a href="https://github.com/Lightning-AI/pytorch-lightning/pull/21560">
+<img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width="48" height="48" alt="Lightning AI"/><br/>
+<b>PyTorch Lightning</b>
+</a>
+</td>
 </tr>
 </table>
 
